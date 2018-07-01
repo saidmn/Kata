@@ -1,0 +1,6 @@
+c:\users\said\documents\visual studio 2013\Projects\Kata de code\Kata de code\bin\Debug\Kata de code.exe.config
+c:\users\said\documents\visual studio 2013\Projects\Kata de code\Kata de code\bin\Debug\Kata de code.exe
+c:\users\said\documents\visual studio 2013\Projects\Kata de code\Kata de code\bin\Debug\Kata de code.pdb
+c:\users\said\documents\visual studio 2013\Projects\Kata de code\Kata de code\obj\Debug\Kata de code.csprojResolveAssemblyReference.cache
+c:\users\said\documents\visual studio 2013\Projects\Kata de code\Kata de code\obj\Debug\Kata de code.exe
+c:\users\said\documents\visual studio 2013\Projects\Kata de code\Kata de code\obj\Debug\Kata de code.pdb
